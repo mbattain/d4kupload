@@ -1,0 +1,3 @@
+"id","name","description","label","instanceType","uuid:ID"
+"SyntaxTemplateDictionary_1","IE_Dict","Dictionary for IE","IE Dictionary","SyntaxTemplateDictionary","6502adf1-344a-4ae7-90d0-52c251df1600"
+"SyntaxTemplateDictionary_2","AS_Dict","Dictionary for Study Assessments","Assessment Dictionary","SyntaxTemplateDictionary","c6ec5ce5-1ac6-4bf5-8f1a-812307a865c7"
